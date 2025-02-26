@@ -2,6 +2,8 @@
 
 Descrição do trabalho está nos últimos slides do padrão strategy
 
+![image](strategy.png)
+
 <!--
 * [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/01_strategy.pdf)
 
