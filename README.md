@@ -51,3 +51,5 @@ Os padrões de projeto são classificados como:
 * https://refactoring.guru/pt-br/design-patterns/strategy
 * https://medium.com/collabcode/strategy-padr%C3%B5es-de-projeto-em-java-43889a3afc5a
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/revisao-oo.pdf) <br>
+## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
+[trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
