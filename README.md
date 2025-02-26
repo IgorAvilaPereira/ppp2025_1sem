@@ -1,6 +1,7 @@
 # ppp2025_1sem <br>
 ## [./1_strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/01_strategy.pdf) <br>
+[bibliografia.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/bibliografia.png) <br>
 [introducao.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/introducao.pdf) <br>
 * [Vídeo de Introdução](https://www.youtube.com/watch?v=AWOf6Wo6gtg&list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
 
@@ -51,5 +52,6 @@ Os padrões de projeto são classificados como:
 * https://refactoring.guru/pt-br/design-patterns/strategy
 * https://medium.com/collabcode/strategy-padr%C3%B5es-de-projeto-em-java-43889a3afc5a
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/revisao-oo.pdf) <br>
+[Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/Strategy) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
