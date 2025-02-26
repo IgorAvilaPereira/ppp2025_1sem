@@ -10,4 +10,8 @@ package negocio;
  */
 public class PatoBorracha extends Pato {
     
+    public PatoBorracha(){
+        this.voo = new NaoVoa();
+    }
+    
 }

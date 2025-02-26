@@ -4,6 +4,7 @@ import negocio.SemSom;
 import negocio.NaoVoa;
 import negocio.P1;
 import negocio.P2;
+import negocio.PatoBorracha;
 import negocio.QuackQuack;
 import negocio.V1;
 
@@ -36,6 +37,10 @@ public class Main {
         patolino.setVoo(new V1());
         patolino.executarVoo();
 
+        
+        System.out.println("=====");
+        PatoBorracha betito = new PatoBorracha();
+        betito.executarVoo();
         
 
     }
