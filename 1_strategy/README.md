@@ -29,7 +29,7 @@ Os padrões de projeto são classificados como:
 **Padrão Strategy:**
 
 * [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/1_strategy/01_strategy.pdf)
-
+* [Trabalho 1 - Strategy](./../trabalhos/trabalhos.md#trabalho-1---strategy)
 
 **Vídeos:**
 
