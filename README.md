@@ -2,7 +2,9 @@
 ## [./1_strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/01_strategy.pdf) <br>
 [bibliografia.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/bibliografia.png) <br>
+[designpatternscard.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/designpatternscard.pdf) <br>
 [introducao.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/introducao.pdf) <br>
+[rc008-designpatterns_online.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/rc008-designpatterns_online.pdf) <br>
 * [Vídeo de Introdução](https://www.youtube.com/watch?v=AWOf6Wo6gtg&list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
 
 Os Padrões de Projeto são soluções já encontradas, experimentadas e testadas e que podem ser aplicadas a projetos sem ter que "reinventar a roda". Vários Padrões de Projeto foram catalogados e são um conjunto de melhores práticas que são seguidos e usados em projetos de software orientado a objetos.
