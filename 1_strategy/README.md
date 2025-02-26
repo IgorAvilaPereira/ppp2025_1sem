@@ -1,5 +1,3 @@
-1_strategy <br>
-
 * [Vídeo de Introdução](https://www.youtube.com/watch?v=AWOf6Wo6gtg&list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
 
 Os Padrões de Projeto são soluções já encontradas, experimentadas e testadas e que podem ser aplicadas a projetos sem ter que "reinventar a roda". Vários Padrões de Projeto foram catalogados e são um conjunto de melhores práticas que são seguidos e usados em projetos de software orientado a objetos.
