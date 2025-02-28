@@ -55,6 +55,8 @@ Os padrões de projeto são classificados como:
 * https://medium.com/collabcode/strategy-padr%C3%B5es-de-projeto-em-java-43889a3afc5a
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/revisao-oo.pdf) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/Strategy) <br>
+## [./2_observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./2_observer) <br>
+[2_observer.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/2_observer.md) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
