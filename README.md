@@ -57,6 +57,8 @@ Os padrões de projeto são classificados como:
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/Strategy) <br>
 ## [./2_observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./2_observer) <br>
 [2_observer.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/2_observer.md) <br>
+[observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
+[trab_observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_observer.pdf) <br>
