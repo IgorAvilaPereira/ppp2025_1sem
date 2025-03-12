@@ -127,6 +127,8 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 * https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
 
 
+[exemplo](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/exemplo) <br>
+[observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
