@@ -121,7 +121,7 @@ Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tr
 
 Controle de Telas - Sistema Financeiro
 
-[Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf)
+[Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
 [java](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/java) <br>
 [php](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/php) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
