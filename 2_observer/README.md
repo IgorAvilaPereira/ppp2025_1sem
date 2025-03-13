@@ -1,16 +1,20 @@
-- Observer
+**Padrão Observer:**
 
-Painel Supermercado (Observer) 
+* [Slides](observer.pdf)
 
-* opcional: Forma de Notificação (Strategy)
+<!--* [Código - Painel de Supermercado](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/PainelObserver)
 
-Estação Climática <!--(https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/ObserverAula)-->
+* [Trabalho 2](trabalhos.md) -->
 
-Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/PortalDeNoticias)-->
+**Vídeos:**
 
-Controle de Telas - Sistema Financeiro
+* [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWd9b_qg3S5VsPGnNAxODEm_)
 
-[Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf)
+* [Teoria](https://youtu.be/ny-4nZj138c)
+
+* [Prática](https://youtu.be/e0_iBUZn26Y)
+
+* [Trabalho](https://youtu.be/-O-PPbFYSxM)
 
 <!--
 
@@ -29,23 +33,6 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 * [Código](https://github.com/IgorAvilaPereira/aps2022_1sem/tree/main/codigos/encontro-sincrono-111121)
 -->
 
-**Padrão Observer:**
-
-* [Slides](observer.pdf)
-
-<!--* [Código - Painel de Supermercado](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/PainelObserver)
-
-* [Trabalho 2](trabalhos.md) -->
-
-**Vídeos:**
-
-* [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWd9b_qg3S5VsPGnNAxODEm_)
-
-* [Teoria](https://youtu.be/ny-4nZj138c)
-
-* [Prática](https://youtu.be/e0_iBUZn26Y)
-
-* [Trabalho](https://youtu.be/-O-PPbFYSxM)
 
 <!--
 **Exemplos:**
@@ -66,4 +53,16 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 * https://www.thiengo.com.br/padrao-de-projeto-observer
 * https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
 
+**Exemplos:**
 
+Painel Supermercado (Observer) 
+
+* opcional: Forma de Notificação (Strategy)
+
+Estação Climática <!--(https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/ObserverAula)-->
+
+Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/PortalDeNoticias)-->
+
+Controle de Telas - Sistema Financeiro
+
+[Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf)
