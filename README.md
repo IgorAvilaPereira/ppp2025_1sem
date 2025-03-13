@@ -128,7 +128,6 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 
 
 [java](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/java) <br>
-[observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer) <br>
 [php](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/php) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
