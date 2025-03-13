@@ -1,7 +1,3 @@
-**Padrão Observer:**
-
-* [Slides](observer.pdf)
-
 <!--* [Código - Painel de Supermercado](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/PainelObserver)
 
 * [Trabalho 2](trabalhos.md) -->
