@@ -58,10 +58,6 @@ Os padrões de projeto são classificados como:
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/Strategy) <br>
 ## [./2_observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./2_observer) <br>
 [observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer.pdf) <br>
-**Padrão Observer:**
-
-* [Slides](observer.pdf)
-
 <!--* [Código - Painel de Supermercado](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/PainelObserver)
 
 * [Trabalho 2](trabalhos.md) -->
