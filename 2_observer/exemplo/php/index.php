@@ -26,7 +26,7 @@ class Youtubechannel implements Subject {
         $this->nome = $nome;
     } 
     
-    public function getVideos() {
+    public function getVideos(): array {
         return $this->videos;
     }
     
@@ -35,7 +35,7 @@ class Youtubechannel implements Subject {
     }
     
 //  metodo foco -> metodo importante para os observadores
-    public function changedState($novo_video) {
+    public function changedState($novo_video): void {
         $this->videos[] = $novo_video;
         $this->notifyObservers();
     }
@@ -68,8 +68,9 @@ class Pessoa implements Observer {
         $this->nome = $nome;
     }
     
-    public function update(string $mensagem): void {
-        echo $this->nome . ":". $mensagem."<br>";
+    public function Update(string $mensagem): void {
+        // FIXME: remover <br>
+        echo "${$this->nome}:${$mensagem}<br>";
     } 
     
     public function updateChannel($youtubeChannel, $mensagem): void {
@@ -87,6 +88,7 @@ class Empresa implements Observer {
         $this->nome = $nome;
     }
     
+    // override
     public function update(string $mensagem): void {
         /*
             -- username: postgres password: postgres
@@ -103,10 +105,11 @@ class Empresa implements Observer {
         */
     
     
-        // Dica: seria interessante tratar excecoes, e ter uma classe especifica de conexao 
+        // FIXME: seria interessante tratar excecoes, e ter uma classe especifica de conexao 
         $dbconn = pg_connect("host=localhost dbname=david_carnaval user=postgres password=postgres") or die('Could not connect: ' . pg_last_error());
 
         // Executando instrucoes SQL em uma base de dados PostgreSQL
+        // FIXME: OLHA A SQLINJECTION!!!
         $query = "INSERT INTO log (mensagem) VALUES ('".$mensagem."');";
         
         // ou OK, ou die: Para a execucao de script!        
@@ -116,6 +119,7 @@ class Empresa implements Observer {
 
     } 
     
+    // OVERRIDE
     public function updateChannel($youtubeChannel, $mensagem): void {
         echo $this->nome . ": $mensagem de ". $youtubeChannel->getNome();
     } 
@@ -143,5 +147,3 @@ echo "<hr>";
 
 $igorChannel->changedState("video aula de strategy");
 
-
-?>
