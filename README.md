@@ -123,6 +123,7 @@ Controle de Telas - Sistema Financeiro
 
 [Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
 [java](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/java) <br>
+[observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer) <br>
 [php](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/php) <br>
 ## [./3_template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./3_template_method) <br>
 **Exemplos:**
@@ -231,6 +232,7 @@ Controle de Telas - Sistema Financeiro
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy.pdf) <br>
+[template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
