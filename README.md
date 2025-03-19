@@ -233,6 +233,7 @@ Controle de Telas - Sistema Financeiro
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy.pdf) <br>
 [template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method) <br>
+[template_method2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method2) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
