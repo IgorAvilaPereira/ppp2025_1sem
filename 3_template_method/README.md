@@ -102,8 +102,5 @@
 
 * https://www.codingdrills.com/tutorial/design-patterns-tutorial/template-method-pattern
 
-**Exemplos:**
-
-<br>
 
 
