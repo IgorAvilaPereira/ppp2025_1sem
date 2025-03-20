@@ -123,7 +123,6 @@ Controle de Telas - Sistema Financeiro
 
 [Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
 [java](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/java) <br>
-[observer](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/observer) <br>
 [php](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/php) <br>
 ## [./3_template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./3_template_method) <br>
 **Exemplos:**
