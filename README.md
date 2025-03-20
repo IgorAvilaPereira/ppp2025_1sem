@@ -229,9 +229,6 @@ Controle de Telas - Sistema Financeiro
 
 * https://www.codingdrills.com/tutorial/design-patterns-tutorial/template-method-pattern
 
-**Exemplos:**
-
-<br>
 
 
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method.pdf) <br>
