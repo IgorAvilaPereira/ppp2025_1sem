@@ -228,6 +228,14 @@ Controle de Telas - Sistema Financeiro
 * :wave: :camera: https://www.youtube.com/watch?v=UtnQTLXKdeE
 
 * https://www.codingdrills.com/tutorial/design-patterns-tutorial/template-method-pattern
+
+<br>
+
+**Exemplos:**
+
+<br>
+
+
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy.pdf) <br>
