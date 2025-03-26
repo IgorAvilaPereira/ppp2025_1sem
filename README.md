@@ -237,6 +237,8 @@ Controle de Telas - Sistema Financeiro
 [template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method) <br>
 [template_method2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method2) <br>
 ## [./4_command](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./4_command) <br>
+[command1.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/command1.png) <br>
+[command2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/command2.png) <br>
 [command.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/command.pdf) <br>
 Ex:
 
@@ -261,9 +263,6 @@ Ex:
 
 [Código 2 - Aula](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/Command260923_2)
 -->
-![command1](imagens/command1.png)
-
-![command2](imagens/command2.png)
 
 
 O padrão de projeto Command possui várias características que o tornam uma escolha valiosa em muitos cenários de desenvolvimento de software:
@@ -315,10 +314,6 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 * https://medium.com/xp-inc/design-patterns-parte-16-command-9c73af726c9c
 * https://fjp.at/design-patterns/command
 * https://www.codeprimers.com/command-design-pattern/
-[imagens](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/imagens) <br>
-## [./imagens](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./imagens) <br>
-[command1.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./imagens/command1.png) <br>
-[command2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./imagens/command2.png) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
