@@ -21,9 +21,6 @@ Ex:
 
 [Código 2 - Aula](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/Command260923_2)
 -->
-![command1](imagens/command1.png)
-
-![command2](imagens/command2.png)
 
 
 O padrão de projeto Command possui várias características que o tornam uma escolha valiosa em muitos cenários de desenvolvimento de software:
