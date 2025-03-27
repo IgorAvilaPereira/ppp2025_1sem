@@ -72,3 +72,7 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 * https://medium.com/xp-inc/design-patterns-parte-16-command-9c73af726c9c
 * https://fjp.at/design-patterns/command
 * https://www.codeprimers.com/command-design-pattern/
+
+
+
+
