@@ -314,6 +314,8 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 * https://medium.com/xp-inc/design-patterns-parte-16-command-9c73af726c9c
 * https://fjp.at/design-patterns/command
 * https://www.codeprimers.com/command-design-pattern/
+[demo2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo2) <br>
+[demo3](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo3) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
