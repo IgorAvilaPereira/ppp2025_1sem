@@ -320,6 +320,8 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 [demo2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo2) <br>
 [demo3](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo3) <br>
+## [./5_state](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./5_state) <br>
+&nbsp;
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
