@@ -1,5 +1,9 @@
-<!--State
+* Divulgação do Trabalhão do bimestre -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
 
+Na volta (2 bim):
+* + padrões das demais categorias
+
+**State + Trabalho**
 
 * [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/state.pdf)
 * [Exemplo - MárioBros](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/mario-finite-state-machine.jpg)
@@ -20,6 +24,7 @@
 * elimina condicionais complexas da classe de contexto
 
 **Ruim**
+
 * se você tem apenas poucas condicionais simples, aplicar este padrão pode deixar seu código mais complexo do que o necessário
 
 <!--* [Código - Aula](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/StateAula)-->
