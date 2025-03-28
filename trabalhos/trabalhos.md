@@ -48,3 +48,11 @@ Descrição do trabalho está nos últimos slides do padrão strategy
 **Valor:** 1
 
 ***
+
+# Trabalho 5 - State
+
+[Vídeo](https://youtu.be/oCuHWQk4mPc)
+
+
+**Valor:** 1
+
