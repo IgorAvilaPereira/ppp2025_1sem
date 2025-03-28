@@ -400,6 +400,7 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
 [template_method.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method.png) <br>
+[trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhao_ppp2025_1sem_1bim.pdf) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
 [trab_command.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_command.png) <br>
 [trab_observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_observer.pdf) <br>
