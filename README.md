@@ -323,10 +323,11 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 ## [./5_state](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./5_state) <br>
 [2025-04-02_13-35.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/2025-04-02_13-35.png) <br>
 [mario-finite-state-machine.jpg](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/mario-finite-state-machine.jpg) <br>
-* Divulgação do Trabalhão do bimestre -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
+* Divulgação do Trabalhão do bimestre 
+    *   Data e Peso estão no SIGAA: assim fechamos 1 bim.
 
 Na volta (2 bim):
-* + padrões das demais categorias
+* Padrões das demais categorias: criacional e estrutural
 
 **State**
 
