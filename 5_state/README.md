@@ -1,7 +1,8 @@
-* Divulgação do Trabalhão do bimestre -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
+* Divulgação do Trabalhão do bimestre 
+    *   Data e Peso estão no SIGAA: assim fechamos 1 bim.
 
 Na volta (2 bim):
-* + padrões das demais categorias
+* Padrões das demais categorias: criacional e estrutural
 
 **State**
 
