@@ -331,7 +331,7 @@ Na volta (2 bim):
 
 **State**
 
-* [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/state.pdf)
+<!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)-->
 * [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
 <!-- 
 * [Exemplo - MárioBros](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/mario-finite-state-machine.jpg)
@@ -404,6 +404,7 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 
 &nbsp;
 [state.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/state.md) <br>
+[state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/state.pdf) <br>
 [trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/trabalhao_ppp2025_1sem_1bim.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
