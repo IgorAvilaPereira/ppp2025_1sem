@@ -321,15 +321,18 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 [demo2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo2) <br>
 [demo3](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo3) <br>
 ## [./5_state](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./5_state) <br>
+[2025-04-02_13-35.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/2025-04-02_13-35.png) <br>
 [mario-finite-state-machine.jpg](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/mario-finite-state-machine.jpg) <br>
 * Divulgação do Trabalhão do bimestre -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
 
 Na volta (2 bim):
 * + padrões das demais categorias
 
-**State + Trabalho**
+**State**
 
 * [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/state.pdf)
+* [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
+<!-- 
 * [Exemplo - MárioBros](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/mario-finite-state-machine.jpg)
 * [Exemplo - Package](https://github.com/IgorAvilaPereira/ppp2024_2sem/blob/main/state.md)
 * [Trabalho 4 (State)](https://github.com/IgorAvilaPereira/ppp2024_2sem/wiki/Trabalhos#trabalho-4)
