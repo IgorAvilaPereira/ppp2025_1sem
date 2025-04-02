@@ -6,7 +6,7 @@ Na volta (2 bim):
 
 **State**
 
-* [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/state.pdf)
+<!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)-->
 * [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
 <!-- 
 * [Exemplo - MárioBros](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/mario-finite-state-machine.jpg)
