@@ -411,6 +411,7 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 [decorator.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/decorator.pdf) <br>
 [decorator.svg](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/decorator.svg) <br>
 [exemplo.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/exemplo.png) <br>
+[Trabalho 6](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-6---decorator)
 
 **Vídeos - Padrão Decorator:**
 
