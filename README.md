@@ -407,6 +407,24 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 [state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/state.pdf) <br>
 [trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/trabalhao_ppp2025_1sem_1bim.pdf) <br>
 [exemplo_state](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/exemplo_state) <br>
+## [./6_decorator](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./6_decorator) <br>
+[decorator.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/decorator.pdf) <br>
+[decorator.svg](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/decorator.svg) <br>
+[exemplo.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/exemplo.png) <br>
+
+**Vídeos - Padrão Decorator:**
+
+* [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWck6eWAE-llyhvlpj1fDF_y)
+
+* [Teoria](https://youtu.be/__yFHhi5LHQ)
+
+* [Prática](https://youtu.be/QYxcqcIK7bs)
+
+**Leitura Complementar:**
+
+* https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/
+
+* **Como remover:** https://stackoverflow.com/questions/55776160/how-to-remove-decorated-object-from-decorator-pattern
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
