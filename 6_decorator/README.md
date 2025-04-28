@@ -1,0 +1,14 @@
+
+**Vídeos - Padrão Decorator:**
+
+* [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWck6eWAE-llyhvlpj1fDF_y)
+
+* [Teoria](https://youtu.be/__yFHhi5LHQ)
+
+* [Prática](https://youtu.be/QYxcqcIK7bs)
+
+**Leitura Complementar:**
+
+* https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/
+
+* **Como remover:** https://stackoverflow.com/questions/55776160/how-to-remove-decorated-object-from-decorator-pattern

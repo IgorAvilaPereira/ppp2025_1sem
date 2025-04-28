@@ -56,3 +56,37 @@ Descrição do trabalho está nos últimos slides do padrão strategy
 
 **Valor:** 1
 
+# Trabalho 6 - Decorator
+
+Construa um gerador de documentos HTML.
+
+Um documento HTML começa com um corpo básico:
+
+```html
+<html>
+  <title> {TITULO} </title>
+<body>
+</body>
+{CORPO}
+</html>
+```
+
+Porém é possível incrementá-lo a fim de acrescentar novas tags como, por exemplo tabelas, quebras de linhas, links, botões, formulários, imagens e etc dentro do corpo do arquivo HTML.
+
+Implemente o padrão Decorator para este problema. Construa, dinamicamente, o arquivo HTML e adicione, em tempo de execução, as demais tags HTML no corpo do arquivo. O processo de construção do arquivo HTML deverá ser semelhante ao trecho abaixo:
+
+```java
+Html html = new HTML("Titulo");
+html = new Link(html, "Google", "http://www.google.com");
+html = new Div(html);
+// + tags html
+html.build();
+```
+Construa no mínimo 5 tags html adicionais.
+
+**Valor:** 1
+
+**Desafio:** +0.5 Acrescentar tags aninhadas
+
+***
+
