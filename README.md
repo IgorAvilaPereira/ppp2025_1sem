@@ -500,6 +500,8 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 * https://www.tabnews.com.br/santiagosouto/padrao-de-projeto-proxy-intermediando-o-acesso-a-objetos-e-recursos
 
 
+[tipos_proxy.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/tipos_proxy.md) <br>
+[proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/proxy_aula) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
