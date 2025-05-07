@@ -56,6 +56,9 @@ Descrição do trabalho está nos últimos slides do padrão strategy
 
 **Valor:** 1
 
+
+***
+
 # Trabalho 6 - Decorator
 
 Construa um gerador de documentos HTML.
@@ -90,3 +93,14 @@ Construa no mínimo 5 tags html adicionais.
 
 ***
 
+# Trabalho 7 - Proxy
+
+[Descrição](trab_proxy.pdf)
+
+[Vídeo](https://youtu.be/TE4MdmVFf7I)
+
+<!--**Prazo:** 15/11
+
+**Valor:** 1-->
+
+***
