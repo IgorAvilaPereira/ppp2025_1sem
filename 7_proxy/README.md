@@ -1,15 +1,11 @@
-- Proxy
-
-**Aula:**
-
 <!--* [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/proxy.pdf)-->
 
 <!--* [Trabalho 8 - Proxy](https://github.com/IgorAvilaPereira/ppp2024_2sem/wiki/Trabalhos#trabalho-8)-->
 
+<!--
 * [YouTubeManager (Sem Proxy)](https://github.com/IgorAvilaPereira/YoutubeManager)
 
-<!--
-* [YoutubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/Proxy)
+tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/Proxy)
 
 * [Código Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/proxy)
 
