@@ -9,6 +9,14 @@ import negocio.PokemonAPI;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
+// instalar Redis via docker
+//-- 1ª vez
+//docker run --name redis -p 6379:6379 -d redis:latest
+//docker exec -it redis redis-cli
+//-- demais vezes
+//sudo docker start redis
+//sudo docker exec -it redis redis-cli
+
 public class PokemonAPIProxyRedis implements API {
     private JedisPool pool;
     private PokemonAPI pokemonAPI;
