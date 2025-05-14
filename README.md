@@ -532,7 +532,9 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 **Descrição:** adaptar os códigos legados
 
 **Extra:** se enviar corretamente um email, ou se enviar corretamente uma mensagem via whatsapp ou telegram
-+0.5[structure-object-adapter.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/structure-object-adapter.png) <br>
++0.5
+
+**Entrega:** 29/05[structure-object-adapter.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/structure-object-adapter.png) <br>
 [Adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/Adapter) <br>
 [adapter_duck](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_duck) <br>
 [adapter_pokemonapi_digimon](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_pokemonapi_digimon) <br>
