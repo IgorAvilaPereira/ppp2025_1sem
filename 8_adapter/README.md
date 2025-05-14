@@ -24,3 +24,5 @@
 
 **Extra:** se enviar corretamente um email, ou se enviar corretamente uma mensagem via whatsapp ou telegram
 +0.5
+
+**Entrega:** 29/05
