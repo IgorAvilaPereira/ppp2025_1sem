@@ -12,5 +12,6 @@
 
 * Imagine que sua aplicação precisa interagir com arquivos, mas você tem acesso a um serviço de armazenamento na nuvem que possui uma API diferente da interface de sistema de arquivos local que sua aplicação já utiliza.
 
-* Imagine que você tem um sistema antigo que fornece informações de clientes em um formato XML. Sua nova aplicação, no entanto, espera os dados em um formato JSON. Vamos criar um Adapter para fazer essa conversão.
+* Imagine que você está criando uma aplicação de monitoramento do mercado de ações da bolsa. A aplicação baixa os dados as ações de múltiplas fontes em formato XML e então mostra gráficos e diagramas maneiros para o usuário.
+    * Em algum ponto, você decide melhorar a aplicação ao integrar uma biblioteca de análise de terceiros. Mas aqui está a pegadinha: a biblioteca só trabalha com dados em formato JSON.
 
