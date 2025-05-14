@@ -502,6 +502,16 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 
 [tipos_proxy.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/tipos_proxy.md) <br>
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/proxy_aula) <br>
+## [./8_adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./8_adapter) <br>
+[adapter.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter.pdf) <br>
+[adapter_vs_proxy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_vs_proxy.png) <br>
+
+**Exemplos de Adapter:**
+
+* No Simulador de Patos chegou um código legado de Perus
+
+* Imagine que você tem um sistema antigo que fornece informações de clientes em um formato XML. Sua nova aplicação, no entanto, espera os dados em um formato JSON. Vamos criar um Adapter para fazer essa conversão.
+[Adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/Adapter) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
