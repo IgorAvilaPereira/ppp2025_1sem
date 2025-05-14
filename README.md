@@ -524,7 +524,15 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 * Imagine que você está criando uma aplicação de monitoramento do mercado de ações da bolsa. A aplicação baixa os dados as ações de múltiplas fontes em formato XML e então mostra gráficos e diagramas maneiros para o usuário.
     * Em algum ponto, você decide melhorar a aplicação ao integrar uma biblioteca de análise de terceiros. Mas aqui está a pegadinha: a biblioteca só trabalha com dados em formato JSON.
 
-[structure-object-adapter.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/structure-object-adapter.png) <br>
+**Trabalho 7 - Adapter:**
+
+* Código legado: envio de sms
+* Código legado: envio de email ou de notificação (whatsapp ou telegram)
+
+**Descrição:** adaptar os códigos legados
+
+**Extra:** se enviar corretamente um email, ou se enviar corretamente uma mensagem via whatsapp ou telegram
++0.5[structure-object-adapter.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/structure-object-adapter.png) <br>
 [Adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/Adapter) <br>
 [adapter_duck](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_duck) <br>
 [adapter_pokemonapi_digimon](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_pokemonapi_digimon) <br>
