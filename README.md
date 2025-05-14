@@ -504,6 +504,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/proxy_aula) <br>
 ## [./8_adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./8_adapter) <br>
 [adapter_exemplo1.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_exemplo1.png) <br>
+[adapter_exemplo2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_exemplo2.png) <br>
 [adapter.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter.pdf) <br>
 [adapter_vs_proxy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_vs_proxy.png) <br>
 
