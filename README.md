@@ -543,7 +543,40 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [adapter_pokemonapi_digimon](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_pokemonapi_digimon) <br>
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/proxy_aula) <br>
 ## [./9_facade](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./9_facade) <br>
+[dao_jdbc.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/dao_jdbc.pdf) <br>
+[facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/facade.pdf) <br>
+
+
+**Material Complementar:**
+
+* https://www.youtube.com/watch?v=8tyNCznvgW8&ab_channel=C%C3%B3digoFonteTV
+
+* :exclamation: https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6
+
+* :exclamation: https://www.baeldung.com/java-facade-pattern
+
+* https://dev.to/mkobuolys/7-facade-215b
+
+* [Facade Design Pattern](https://amitpamecha.wordpress.com/2016/11/14/facade-design-pattern/)
+
+* [Facade - CDOT Wiki](https://wiki.cdot.senecacollege.ca/wiki/Facade)
+
+* [Facade](https://www.design-patterns-stories.com/patterns/Facade/)
+
+* [Facade pattern - Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
+
+* [Facade](https://refactoring.guru/pt-br/design-patterns/facade)
+
+* [C# Facade Design Pattern - Dofactory](https://www.dofactory.com/net/facade-design-pattern)
+
+* [Facade Pattern from Head First Design Patterns](https://www.javaguides.net/2018/07/facade-pattern-from-head-first-design-patterns.html)
+
+* [Design patterns: facade » Hello World!](https://blog.lukaszewski.it/2013/08/31/design-patterns-facade/)
+
+***
+
 &nbsp;
+[trab_facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/trab_facade.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
@@ -551,6 +584,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhao_ppp2025_1sem_1bim.pdf) <br>
 [trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
 [trab_command.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_command.png) <br>
+[trab_facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_facade.pdf) <br>
 [trab_observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_observer.pdf) <br>
 [trab_proxy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_proxy.pdf) <br>
 [trab_state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_state.pdf) <br>
