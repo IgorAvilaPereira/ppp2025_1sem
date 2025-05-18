@@ -46,6 +46,9 @@ git add *
 git commit -m 'atualizando'
 git push
 
+cd "./../"$repositorio".wiki/" && git pull
+cd ".." && cd $repositorio
+
 # se n tiver wiki, favor comentar
 cp "README.md" "./../"$repositorio".wiki/Home.md"	
 cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push
