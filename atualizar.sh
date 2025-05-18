@@ -41,12 +41,10 @@ for d in ./*; do
 		cd ..
 	fi
 done
-
 git add * && git commit -m 'atualizando' && git push
 
 # se n tiver wiki, favor comentar
-cp "README.md" "/home/iapereira/git/"$repositorio".wiki/Home.md"	
-cd "/home/iapereira/git/"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push
+cd "/home/iapereira/git/$repositorio.wiki/" && git pull && cp "./../$repositorio/README.md" "Home.md" && git add * && git commit -m 'atualizando' && git push
 
 # exibindo o novo README criado. Este mesmo README aparecera no Home.md da wiki (caso exista)
 #echo "==================================="
