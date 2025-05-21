@@ -545,7 +545,20 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 ## [./9_facade](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./9_facade) <br>
 [dao_jdbc.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/dao_jdbc.pdf) <br>
 [facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/facade.pdf) <br>
+**Exemplo:**
 
+Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
+
+* Como eu faria para Marcar uma consulta?
+*
+* Como eu faria para facilitar a vida do cliente/colega de trabalho que deseja salvar/registrar uma nova consulta?
+
+**Principais Vantagens do Facade:**
+
+* **Simplificação:** Fornece uma interface mais simples e unificada para um sistema complexo.
+* **Acoplamento Reduzido:** Desacopla o cliente do subsistema complexo. O cliente depende apenas da fachada.
+* **Legibilidade Aumentada:** O código se torna mais fácil de entender e manter, pois os fluxos de trabalho complexos são encapsulados.
+* **Orquestração:** A fachada é responsável por saber quais objetos do subsistema são responsáveis por uma solicitação e por delegar o trabalho.
 
 **Material Complementar:**
 
@@ -576,6 +589,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 ***
 
 &nbsp;
+[trab_facade.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/trab_facade.md) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
