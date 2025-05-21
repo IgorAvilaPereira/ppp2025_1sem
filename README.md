@@ -587,9 +587,10 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 * [Design patterns: facade » Hello World!](https://blog.lukaszewski.it/2013/08/31/design-patterns-facade/)
 
-***
 
 &nbsp;
+
+***
 [trab_facade.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/trab_facade.md) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
