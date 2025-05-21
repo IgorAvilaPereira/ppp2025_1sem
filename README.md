@@ -543,6 +543,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [adapter_pokemonapi_digimon](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_pokemonapi_digimon) <br>
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/proxy_aula) <br>
 ## [./9_facade](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./9_facade) <br>
+[aula7.sql](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/aula7.sql) <br>
 [dao_jdbc.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/dao_jdbc.pdf) <br>
 [facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/facade.pdf) <br>
 **Exemplo:**
