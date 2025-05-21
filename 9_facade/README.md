@@ -1,4 +1,17 @@
+**Exemplo:**
 
+Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
+
+* Como eu faria para Marcar uma consulta?
+*
+* Como eu faria para facilitar a vida do cliente/colega de trabalho que deseja salvar/registrar uma nova consulta?
+
+**Principais Vantagens do Facade:**
+
+* **Simplificação:** Fornece uma interface mais simples e unificada para um sistema complexo.
+* **Acoplamento Reduzido:** Desacopla o cliente do subsistema complexo. O cliente depende apenas da fachada.
+* **Legibilidade Aumentada:** O código se torna mais fácil de entender e manter, pois os fluxos de trabalho complexos são encapsulados.
+* **Orquestração:** A fachada é responsável por saber quais objetos do subsistema são responsáveis por uma solicitação e por delegar o trabalho.
 
 **Material Complementar:**
 
