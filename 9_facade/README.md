@@ -3,7 +3,7 @@
 Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 * Como eu faria para Marcar uma consulta?
-*
+
 * Como eu faria para facilitar a vida do cliente/colega de trabalho que deseja salvar/registrar uma nova consulta?
 
 **Principais Vantagens do Facade:**
