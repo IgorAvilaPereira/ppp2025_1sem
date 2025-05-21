@@ -39,7 +39,6 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 * [Design patterns: facade » Hello World!](https://blog.lukaszewski.it/2013/08/31/design-patterns-facade/)
 
-
 &nbsp;
 
-***
+
