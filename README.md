@@ -1,6 +1,6 @@
 # ppp2025_1sem <br>
-## [./10_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder) <br>
-[builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.pdf) <br>
+## [./010_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./010_builder) <br>
+[builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./010_builder/builder.pdf) <br>
 Builder
 <!--
 [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/builder.pdf)
@@ -98,7 +98,7 @@ Builder
 * https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
 &nbsp;
-[trab_builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/trab_builder.md) <br>
+[trab_builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./010_builder/trab_builder.md) <br>
 ## [./1_strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/01_strategy.pdf) <br>
 [bibliografia.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/bibliografia.png) <br>
