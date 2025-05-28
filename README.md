@@ -135,7 +135,6 @@ Builder
 * [Exemplo 4](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/prototype4)
 -->
 
-[trab_prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/trab_prototype.pdf) <br>
 ## [./1_strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/01_strategy.pdf) <br>
 [bibliografia.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/bibliografia.png) <br>
