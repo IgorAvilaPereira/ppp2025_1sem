@@ -99,7 +99,6 @@ Builder
 * https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
 &nbsp;
-[trab_builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/trab_builder.md) <br>
 ## [./11_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype) <br>
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
