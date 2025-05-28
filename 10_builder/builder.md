@@ -102,6 +102,23 @@ public class Main {
 
 ---
 
+### ✅ Vantagens
+
+* Permite a criação passo a passo de objetos complexos.
+* O código fica mais limpo do que com construtores com muitos parâmetros.
+* Facilita a criação de objetos imutáveis.
+
+---
+
+### ⚠️ Desvantagens
+
+* Mais classes para manter.
+* Pode ser exagerado para objetos simples.
+
+---
+
+---
+
 ## 💻 Exemplo em Java: Montagem de Computadores com Builder
 
 ### 1. `Computador` – Produto
@@ -130,21 +147,6 @@ public class Computador {
     }
 }
 ```
-
----
-
-### ✅ Vantagens
-
-* Permite a criação passo a passo de objetos complexos.
-* O código fica mais limpo do que com construtores com muitos parâmetros.
-* Facilita a criação de objetos imutáveis.
-
----
-
-### ⚠️ Desvantagens
-
-* Mais classes para manter.
-* Pode ser exagerado para objetos simples.
 
 ---
 
