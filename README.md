@@ -610,6 +610,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [2025-06-04_17-16.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/2025-06-04_17-16.png) <br>
 [builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.md) <br>
 [builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.pdf) <br>
+[meu_pdf.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/meu_pdf.pdf) <br>
 ### Cronograma
 
 * 04/06: builder
@@ -726,6 +727,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder)
+[exemplo_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/exemplo_builder) <br>
 ## [./11_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype) <br>
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
