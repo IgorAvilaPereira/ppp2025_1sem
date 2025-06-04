@@ -114,6 +114,7 @@
 * https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
 &nbsp;
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder
 ## [./11_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype) <br>
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
@@ -150,6 +151,7 @@
 * [Exemplo 4](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/prototype4)
 -->
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype
 ## [./1_strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/01_strategy.pdf) <br>
 [bibliografia.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/bibliografia.png) <br>
@@ -204,6 +206,7 @@ Os padrões de projeto são classificados como:
 * https://www.thiengo.com.br/padrao-de-projeto-strategy-estrategia
 * https://refactoring.guru/pt-br/design-patterns/strategy
 * https://medium.com/collabcode/strategy-padr%C3%B5es-de-projeto-em-java-43889a3afc5a
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./1_strategy
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/revisao-oo.pdf) <br>
 [strategy_aplicabilidade.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/strategy_aplicabilidade.png) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./1_strategy/Strategy) <br>
@@ -273,6 +276,7 @@ Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tr
 Controle de Telas - Sistema Financeiro
 
 [Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./2_observer
 [java](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/java) <br>
 [php](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./2_observer/php) <br>
 ## [./3_template_method](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./3_template_method) <br>
@@ -382,6 +386,7 @@ Controle de Telas - Sistema Financeiro
 
 
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./3_template_method
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./3_template_method/templatemethod_vs_strategy.pdf) <br>
@@ -469,6 +474,7 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./4_command
 [demo2](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo2) <br>
 [demo3](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./4_command/demo3) <br>
 ## [./5_state](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./5_state) <br>
@@ -554,6 +560,7 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 * https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/State_Pattern_(padr%C3%A3o_de_desenho)/Exerc%C3%ADcio_02:_M%C3%A1quina_de_Lavar
 
 &nbsp;
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./5_state
 [state.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/state.md) <br>
 [state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/state.pdf) <br>
 [trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./5_state/trabalhao_ppp2025_1sem_1bim.pdf) <br>
@@ -577,6 +584,7 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 * https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/
 
 * **Como remover:** https://stackoverflow.com/questions/55776160/how-to-remove-decorated-object-from-decorator-pattern
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./6_decorator
 [starbucks.sql](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/starbucks.sql) <br>
 [decorator](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./6_decorator/decorator) <br>
 ## [./7_proxy](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./7_proxy) <br>
@@ -651,6 +659,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 * https://www.tabnews.com.br/santiagosouto/padrao-de-projeto-proxy-intermediando-o-acesso-a-objetos-e-recursos
 
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./7_proxy
 [tipos_proxy.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/tipos_proxy.md) <br>
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./7_proxy/proxy_aula) <br>
 ## [./8_adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./8_adapter) <br>
@@ -688,6 +697,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 **Entrega:** 29/05
 
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./8_adapter
 [structure-object-adapter.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/structure-object-adapter.png) <br>
 [Adapter](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/Adapter) <br>
 [adapter_duck](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./8_adapter/adapter_duck) <br>
@@ -741,6 +751,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 &nbsp;
 
 
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./9_facade
 [trab_facade.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/trab_facade.md) <br>
 [projeto_facade](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./9_facade/projeto_facade) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
