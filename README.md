@@ -608,6 +608,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [projeto_facade](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./09_facade/projeto_facade) <br>
 ## [./10_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder) <br>
 [2025-06-04_17-16.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/2025-06-04_17-16.png) <br>
+[2025-06-04_17-26.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/2025-06-04_17-26.png) <br>
 [builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.md) <br>
 [builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.pdf) <br>
 ### Cronograma
