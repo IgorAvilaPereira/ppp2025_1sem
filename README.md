@@ -763,4 +763,14 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype)
-## [./renomear.sh](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./renomear.sh) <br>
+## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
+[strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
+[template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
+[template_method.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method.png) <br>
+[trabalhao_ppp2025_1sem_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhao_ppp2025_1sem_1bim.pdf) <br>
+[trabalhos.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trabalhos.md) <br>
+[trab_command.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_command.png) <br>
+[trab_facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_facade.pdf) <br>
+[trab_observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_observer.pdf) <br>
+[trab_proxy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_proxy.pdf) <br>
+[trab_state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_state.pdf) <br>
