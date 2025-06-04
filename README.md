@@ -112,6 +112,9 @@
 * [Código do Vídeo](https://github.com/manoelcampos/padroes-projetos/tree/master/criacionais/04-builder)
 * [Teoria](https://github.com/manoelcampos/padroes-projetos/tree/master/criacionais/04-builder)
 * https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
+* https://www.linkedin.com/pulse/conhe%C3%A7a-o-padr%C3%A3o-de-projeto-builder-matheus-pieropan-nvvof/?trackingId=7SSjaUrXvRxDAOqV7LlQtw%3D%3D
+* https://mballem.com/post/simplificando-com-builder-pattern/
+* https://precisoestudarsempre.blogspot.com/2015/08/virando-um-pedreiro-de-software-padrao.html
 
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder)
