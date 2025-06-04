@@ -1,4 +1,17 @@
-Builder
+### Cronograma
+
+* 04/06: builder
+
+* 11/06: semana acadêmica (sem aula de ppp)
+
+* 18/06: prototype
+
+* 25/06: revisão 2 bim. pré atividade avaliada 2
+
+* 02/07: atividade avaliada 2
+
+
+### Builder
 <!--
 [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/builder.pdf)
 
