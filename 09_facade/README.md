@@ -42,4 +42,4 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 &nbsp;
 
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./9_facade)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./09_facade)
