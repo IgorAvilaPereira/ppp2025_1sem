@@ -10,6 +10,8 @@
 
 * 02/07: atividade avaliada 2
 
+* 09/07: "gordura": revisão de notas, segundas chamadas, atendimento pré-exame e etc.
+
 
 ### Builder
 <!--
