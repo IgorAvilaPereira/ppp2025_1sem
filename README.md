@@ -1,7 +1,7 @@
 # ppp2025_1sem <br>
-## [./010_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./010_builder) <br>
-[builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./010_builder/builder.md) <br>
-[builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./010_builder/builder.pdf) <br>
+## [./10_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder) <br>
+[builder.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.md) <br>
+[builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/builder.pdf) <br>
 ### Cronograma
 
 * 04/06: builder
@@ -114,8 +114,8 @@
 * https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
 &nbsp;
-## [./011_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./011_prototype) <br>
-[prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./011_prototype/prototype.pdf) <br>
+## [./11_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype) <br>
+[prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
 
 **Material Complementar:**
