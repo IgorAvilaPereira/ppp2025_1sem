@@ -83,6 +83,7 @@ public class DocumentoBuilder {
 ```
 
 ---
+<!--
 
 ## 💾 3. **Clonagem Profunda via Serialização**
 
@@ -107,8 +108,9 @@ public static Object deepClone(Object obj) {
 ```
 
 ---
+-->
 
-## 🔍 4. **Prototype + Reflection (baixo acoplamento)**
+## 🔍 3. **Prototype + Reflection (baixo acoplamento)**
 
 Você pode usar **Reflection** para criar clones genéricos quando não quer ou não pode modificar a classe original.
 
@@ -133,7 +135,7 @@ public static <T> T cloneComReflection(T obj) {
 | `super.clone()`          | Clonagem simples com atributos primitivos ou imutáveis  |
 | Clonagem profunda manual | Objetos com composição de objetos mutáveis              |
 | Registro de protótipos   | Várias instâncias padrão reutilizáveis                  |
-| Serialização             | Clonagem de estruturas complexas com facilidade         |
+<!--| Serialização             | Clonagem de estruturas complexas com facilidade         |-->
 | Reflection               | Baixo acoplamento, clones sem alterar a classe original |
 
 ---
