@@ -731,6 +731,8 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_builder)
 [exemplo_builder](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./10_builder/exemplo_builder) <br>
 ## [./11_prototype](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype) <br>
+[exemplo_prototype_emails.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/exemplo_prototype_emails.md) <br>
+[exemplo_prototype_notificacoes.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/exemplo_prototype_notificacoes.md) <br>
 [prototype.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.md) <br>
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
