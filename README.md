@@ -734,6 +734,8 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/prototype.pdf) <br>
 ### Prototype
 
+[Código - Exemplo](https://github.com/IgorAvilaPereira/exemplo-prototype)
+
 **Material Complementar:**
 
 * https://www.youtube.com/watch?v=qTYj8au-SOs&ab_channel=FabioKon
