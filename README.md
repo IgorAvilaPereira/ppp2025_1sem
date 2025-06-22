@@ -841,5 +841,6 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [trab_command.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_command.png) <br>
 [trab_facade.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_facade.pdf) <br>
 [trab_observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_observer.pdf) <br>
+[trab_prototype.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_prototype.png) <br>
 [trab_proxy.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_proxy.pdf) <br>
 [trab_state.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/trab_state.pdf) <br>
