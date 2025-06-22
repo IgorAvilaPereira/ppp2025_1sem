@@ -246,13 +246,13 @@ public class Main{
 ```
 ***
 
-# Trabalho 12 - Prototype
+# Trabalho 11 - Prototype
 
 Tema livre
 
 ***
 
-# Trabalho 13 - Testes
+# Trabalho 12 - Testes
 
 **1) Implemente o seu próprio objeto `Date` com os seguintes métodos:**
 
