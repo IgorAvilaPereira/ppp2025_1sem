@@ -776,7 +776,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype)
 [demo](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/demo) <br>
-## [./13_testes](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./13_testes) <br>
+## [./12_testes](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./12_testes) <br>
  JUnit
 
 <!--
@@ -831,7 +831,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 * https://www.vogella.com/tutorials/JUnit/article.html
 
 *** 
-[testes_unitarios.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./13_testes/testes_unitarios.pdf) <br>
+[testes_unitarios.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
