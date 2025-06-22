@@ -776,6 +776,62 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./11_prototype)
 [demo](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./11_prototype/demo) <br>
+## [./13_testes](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./13_testes) <br>
+ JUnit
+
+<!--
+[Slides](https://github.com/IgorAvilaPereira/ppp2023_1sem/raw/main/slides/testes_unitarios.pdf)
+-->
+
+```maven
+ <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.10.0-M1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+```
+
+<!--
+[Trabalho 13 - Testes Unitários](https://github.com/IgorAvilaPereira/ppp2023_1sem/wiki/Trabalhos#trabalho-13)
+
+* [Código](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/aula-junit)
+-->
+
+<!--
+**Código:**
+
+* [Como Projeto Netbeans](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/JUnit)
+
+* [Como Projeto Maven](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/JUnitMaven)
+
+* [Código Aula + Spoiler Trabalho 13](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/Aula291122JUnitMaven)
+
+-->
+
+**Vídeos - Testes Unitários (JUnit):**
+
+* [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWcivjJs7O_h3LzkfE-r675A)
+
+* [Teoria](https://youtu.be/lZLmGg911UU)
+
+* [Prática](https://youtu.be/JCoy-x0PWt4)
+
+**Material Complementar:**
+
+* https://mari-azevedo.medium.com/qualidade-e-junit-introduzindo-automatiza%C3%A7%C3%A3o-de-testes-unit%C3%A1rios-do-seu-software-java-no-dia-a-dia-849611de5574
+
+* https://www.javaavancado.com/wp-content/uploads/2016/05/Implementando-_estes_unit%C3%A1rios_em_Java.pdf
+
+* https://mmarcosab.medium.com/criando-mocks-e-escrevendo-testes-unit%C3%A1rios-com-junit-5-f54e6407bd7c
+
+* https://www.vogella.com/tutorials/JUnit/article.html
+
+*** 
+[testes_unitarios.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./13_testes/testes_unitarios.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
