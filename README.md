@@ -831,6 +831,8 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 * https://www.vogella.com/tutorials/JUnit/article.html
 
 *** 
+[testes_unitarios_junit.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios_junit.md) <br>
+[testes_unitarios_junit_mock.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios_junit_mock.md) <br>
 [testes_unitarios.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios.pdf) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
