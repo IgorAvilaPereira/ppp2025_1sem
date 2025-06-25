@@ -779,6 +779,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 ## [./12_testes](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./12_testes) <br>
 [junit5_cheatsheet.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/junit5_cheatsheet.md) <br>
 [junit5_principais_anotacoes.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/junit5_principais_anotacoes.md) <br>
+[mockito_junit.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/mockito_junit.md) <br>
 [mockito.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/mockito.md) <br>
  JUnit
 
