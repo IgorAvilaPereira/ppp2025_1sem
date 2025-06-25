@@ -125,9 +125,4 @@ class MinhaClasseDeTeste {
 }
 ```
 
----
-
-Se quiser, posso gerar uma **folha de referência rápida (cheat sheet)** ou montar um projeto básico com todos esses exemplos prontos.
-
-Você gostaria disso?
 
