@@ -125,4 +125,52 @@ class MinhaClasseDeTeste {
 }
 ```
 
+---
+
+### ✅ Resumo prático:
+
+| Caso                      | Anotação necessária                                       |
+| ------------------------- | --------------------------------------------------------- |
+| Teste comum               | `@Test`                                                   |
+| Teste com parâmetros      | `@ParameterizedTest`                                      |
+| Teste repetido            | `@RepeatedTest`                                           |
+| Teste com timeout         | `@Test` + `@Timeout` (ou só `@Timeout` se for suficiente) |
+| Qualquer teste executável | **Alguma anotação específica de execução**                |
+
+---
+
+### 🧪 Exemplo obrigatório com `@Test`:
+
+```java
+@Test
+void deveSomarCorretamente() {
+    assertEquals(4, 2 + 2);
+}
+```
+
+---
+
+### 🧪 Exemplo com `@ParameterizedTest` (não precisa de `@Test`):
+
+```java
+@ParameterizedTest
+@ValueSource(ints = {1, 2, 3})
+void deveSerPositivo(int numero) {
+    assertTrue(numero > 0);
+}
+```
+
+---
+
+### ⚠️ Se esquecer a anotação…
+
+Se você esquecer `@Test` (ou `@ParameterizedTest`, etc.), **o método não será reconhecido como um teste** pelo JUnit — ele simplesmente será ignorado durante a execução.
+
+---
+
+### ✅ Recomendação
+
+Sempre adicione a **anotação correta de execução** (`@Test`, `@ParameterizedTest`, `@RepeatedTest`, etc.) em cada método de teste. Elas **não são herdadas** nem opcionais.
+
+---
 
