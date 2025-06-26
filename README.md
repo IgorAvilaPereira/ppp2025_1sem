@@ -840,6 +840,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [testes_unitarios_junit_postgresql.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios_junit_postgresql.md) <br>
 [testes_unitarios.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios.md) <br>
 [testes_unitarios.pdf](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/testes_unitarios.pdf) <br>
+[exemplo_junit](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/exemplo_junit) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
 [strategy.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/strategy.png) <br>
 [template_method2.png](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./trabalhos/template_method2.png) <br>
