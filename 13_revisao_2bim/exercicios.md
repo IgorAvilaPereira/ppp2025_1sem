@@ -25,7 +25,7 @@ Implemente um processo de preparação de bebidas. A classe abstrata `Bebida` de
 
 ---
 
-###  ** ./04\_command — Padrão Command (Versão 3)**
+###  ** ./04\_command — Padrão Command**
 
 **Exercício**:
 Implemente um sistema de **agendamento de tarefas domésticas por voz**. O usuário pode dar comandos como:
@@ -41,7 +41,7 @@ A classe `AssistenteVoz` recebe os comandos e pode executá-los imediatamente ou
 
 ---
 
-###  ** ./05\_state — Padrão State (Versão 4)**
+###  ** ./05\_state — Padrão State**
 
 **Exercício**:
 Implemente o funcionamento de um **semáforo inteligente** com três estados:
@@ -79,7 +79,7 @@ Implemente um sistema de montagem de sanduíches. Comece com um pão básico e a
 
 ---
 
-###  ** ./07\_proxy — Padrão Proxy**
+###  **./07\_proxy — Padrão Proxy**
 
 **Exercício**:
 Implemente um sistema de **acesso a documentos confidenciais**, onde o `DocumentoProxy` verifica se o usuário tem permissão antes de mostrar o conteúdo.
