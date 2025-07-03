@@ -787,7 +787,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [Slides](https://github.com/IgorAvilaPereira/ppp2023_1sem/raw/main/slides/testes_unitarios.pdf)
 -->
 
-```maven
+```xml
 <dependencies>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
