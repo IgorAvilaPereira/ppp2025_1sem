@@ -865,6 +865,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 [exemplo_junit](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./12_testes/exemplo_junit) <br>
 ## [./13_revisao_2bim](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./13_revisao_2bim) <br>
 [exercicios.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./13_revisao_2bim/exercicios.md) <br>
+https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./13_revisao_2bim
 [teoria.md](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./13_revisao_2bim/teoria.md) <br>
 [revisao](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/./13_revisao_2bim/revisao) <br>
 ## [./trabalhos](https://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./trabalhos) <br>
