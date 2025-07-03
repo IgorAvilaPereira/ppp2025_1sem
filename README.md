@@ -693,7 +693,7 @@ Subsistema de BD: Medico, Paciente e Consulta >> Disciplina de PBD
 * **annotations** https://mvnrepository.com/artifact/org.immutables/builder/2.9.2
 * **annotations** https://mvnrepository.com/artifact/org.immutables/value/2.9.2
 
-```sh
+```xml
 <dependencies>
 
 <!-- https://mvnrepository.com/artifact/org.immutables/builder -->
